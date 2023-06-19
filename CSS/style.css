@@ -1,13 +1,16 @@
-.title {
+.title{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 32px;
     font-weight: bold;
+    text-align: center;
 }
 
+.options {
+    background-color: aquamarine;
+}
 div h2{
     color: blueviolet;
 }
 
-.button {
-    background-color: black;
-}
+
 
