@@ -1,3 +1,8 @@
 div h1 {
-    color: aqua;
+    ;
+    background-color: aquamarine;
+    color: red;
+}
+div h2{
+    color: blueviolet;
 }
