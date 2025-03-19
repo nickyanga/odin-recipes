@@ -8,7 +8,8 @@ h1{
     font-weight: bold;
     text-align: center;
     text-decoration: underline;
-    color: black;
+    color: sandybrown;
+    background-color: #f4f4f4;
 }
 
 .class-container{
@@ -20,7 +21,7 @@ h1{
 
 /* Styling for the cards */
 .card {
-    background: white;
+    background-color: white;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -35,5 +36,5 @@ h1{
 
 .card:hover{
     color: navajowhite;
-    text-decoration: underline;
+    text-decoration: none;
 }
