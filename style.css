@@ -1,16 +1,30 @@
+*{
+    outline: 2px solid red;
+    padding: 0;
+    margin: 0;
+}
+
 body{
     font-family: papyrus, serif;
     background-color: #f4f4f4;
 }
 
 h1{
-    font-size: 30px;
+    padding: 10px;
+    margin: 80px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: antiquewhite;
+    font-size: 32px;
     font-weight: bold;
+    text-transform: uppercase;
     text-align: center;
-    text-decoration: underline;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.2);
     color: brown;
 }
 h2{
+    margin: 10px;
+    padding: 0;
     font-size: 22px;
     text-align: left;
     color: sandybrown;
@@ -25,8 +39,9 @@ h2{
 /* Styling for the cards */
 .card , .home{
     background-color: white;
-    padding: 20px;
-    border-radius: 10px;
+    padding: 30px;
+    margin: 50px;
+    border-radius: 30px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     text-align: center;
     width: 300px;
